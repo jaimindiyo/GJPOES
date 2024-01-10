@@ -22,7 +22,7 @@
         "category": "Trending",
         "gameURL": "https://poki.com/en/g/bullet-bonanza",
         "desc": "Trending Games",
-        "isNew": true
+        "isNew": false
       },
       {
         "gameName": "Mekorama",
@@ -38,7 +38,7 @@
         "category": "Trending",
         "gameURL": "https://poki.com/en/g/skibidi-shooter",
         "desc": "Trending Games",
-        "isNew": true
+        "isNew": false
       },
       {
         "gameName": "Headers Aarena:Soccer All Stars",
@@ -46,7 +46,7 @@
         "category": "Trending",
         "gameURL": "https://poki.com/en/g/heads-arena-soccer-all-stars",
         "desc": "Trending Games",
-        "isNew": true
+        "isNew": false
       },
       {
         "gameName": "Make It Meme",
@@ -54,7 +54,7 @@
         "category": "Trending",
         "gameURL": "https://poki.com/en/g/make-it-meme",
         "desc": "Trending Games",
-        "isNew": true
+        "isNew": false
       },
       {
         "gameName": "Ludo Hero",
@@ -69,21 +69,21 @@
         "category": "Trending",
         "gameURL": "https://poki.com/en/g/mutazone",
         "desc": "Trending Games",
-        "isNew": true
+        "isNew": false
       },{
         "gameName": "ShootZ",
         "gameImage": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/4ef7badda36e39159f664313397b7cef.png",
         "category": "Trending",
         "gameURL": "https://poki.com/en/g/shootz",
         "desc": "Trending Games",
-        "isNew": true
+        "isNew": false
       },{
         "gameName": "Cosmos Lines",
         "gameImage": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/bf52fd4ba7b1d03c3dd61057061577fc.png",
         "category": "Trending",
         "gameURL": "https://poki.com/en/g/cosmos-lines",
         "desc": "Trending Games",
-        "isNew": true
+        "isNew": false
       },{
         "gameName": "Drive-Mad",
         "gameImage": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/f8a2160e52333ee0d44ec19e8ca65139.png",
@@ -118,7 +118,7 @@
         "category": "Trending",
         "gameURL": "https://poki.com/en/g/water-color-sort",
         "desc": "Trending Games",
-        "isNew": false
+        "isNew": true
       },{
         "gameName": "Master-Chess",
         "gameImage": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/505695b9-1b21-47fd-a8e1-93345afb57de.png",
@@ -160,19 +160,96 @@
         "category": "Trending",
         "gameURL": "https://poki.com/en/g/sushi-party-io",
         "desc": "Trending Games",
-        "isNew": false
+        "isNew": true
       },{
         "gameName": "Winter-Clash-3d",
         "gameImage": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/89a782b61bcd5990fedfcdd18c35ede2.png",
         "category": "Trending",
         "gameURL": "https://poki.com/en/g/winter-clash-3d",
         "desc": "Trending Games",
-        "isNew": false
+        "isNew": true
       },{
         "gameName": "Panda-Bubble-Shooter",
         "gameImage": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/575d8cdc8afccb74a6defb4c113ade4c.png",
         "category": "Trending",
         "gameURL": "https://poki.com/en/g/panda-bubble-shooter",
+        "desc": "Trending Games",
+        "isNew": true
+      },{
+        "gameName": "Monkey-Mart",
+        "gameImage": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/b3668d7deb043d0f43b5813b0365be8f.png",
+        "category": "Trending",
+        "gameURL": "https://poki.com/en/g/monkey-mart",
+        "desc": "Trending Games",
+        "isNew": false
+      },{
+        "gameName": "Super-Tunnel-Rush",
+        "gameImage": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/58fe1e7371ce50318e3c31024b561209.png",
+        "category": "Trending",
+        "gameURL": "https://poki.com/en/g/super-tunnel-rush",
+        "desc": "Trending Games",
+        "isNew": false
+      },{
+        "gameName": "Pop-It-Master",
+        "gameImage": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/c23a554a7cb198faf9144bb3ee933eb4.jpeg",
+        "category": "Trending",
+        "gameURL": "https://poki.com/en/g/pop-it-master",
+        "desc": "Trending Games",
+        "isNew": false
+      },{
+        "gameName": "Moto-x3m",
+        "gameImage": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/2c6d5a46cdbceada277c870ce1c389ee.jpg",
+        "category": "Trending",
+        "gameURL": "https://poki.com/en/g/moto-x3m",
+        "desc": "Trending Games",
+        "isNew": false
+      },{
+        "gameName": "Brain-Test-Tricky-Puzzles",
+        "gameImage": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/e689238d6dcbb672b749ab65960c0d65.png",
+        "category": "Trending",
+        "gameURL": "https://poki.com/en/g/brain-test-tricky-puzzles",
+        "desc": "Trending Games",
+        "isNew": false
+      },{
+        "gameName": "War-Master",
+        "gameImage": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/6746e02703266d01195d9fa62252698f.png",
+        "category": "Trending",
+        "gameURL": "https://poki.com/en/g/war-master",
+        "desc": "Trending Games",
+        "isNew": false
+      },{
+        "gameName": "Vortellis-Pizza-Delivery",
+        "gameImage": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/df8a21c437d18f2aca99790135790c9e.png",
+        "category": "Trending",
+        "gameURL": "https://poki.com/en/g/vortellis-pizza-delivery",
+        "desc": "Trending Games",
+        "isNew": false
+      },{
+        "gameName": "Parkour-Race",
+        "gameImage": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/a151c8ec0e7758c6fa0ef06ff540e911.jpeg",
+        "category": "Trending",
+        "gameURL": "https://poki.com/en/g/parkour-race",
+        "desc": "Trending Games",
+        "isNew": false
+      },{
+        "gameName": "Shape-Fold-html5",
+        "gameImage": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/f200da6eee6516670ed2dda7c65e7891.png",
+        "category": "Trending",
+        "gameURL": "https://poki.com/en/g/shape-fold-html5",
+        "desc": "Trending Games",
+        "isNew": false
+      },{
+        "gameName": "Big-Shot-Boxing",
+        "gameImage": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/cd1782b250f70b01d6c054fc6e6ae258683dfc3eb657604d9986495403e4d671.png",
+        "category": "Trending",
+        "gameURL": "https://poki.com/en/g/big-shot-boxing",
+        "desc": "Trending Games",
+        "isNew": false
+      },{
+        "gameName": "Sausage-flip",
+        "gameImage": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/7d0655113228257bad41d851c074600d.png",
+        "category": "Trending",
+        "gameURL": "https://poki.com/en/g/sausage-flip",
         "desc": "Trending Games",
         "isNew": false
       },
@@ -513,6 +590,168 @@
         "gameURL": "https://poki.com/en/g/hypersnake",
         "desc": "Brain And Maths Game",
         "isNew": false
+      },{
+        "gameName": "Arithmetica",
+        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/8b3408d50ffebc7659fa5307a19c6175.png",
+        "category": "Math Games",
+        "gameURL": "https://poki.com/en/g/arithmetica",
+        "desc": "Brain And Maths Game",
+        "isNew": false
+      },
+      {
+        "gameName": "Math-Trivia-Live",
+        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/25fc3541f37b557d503160b88e6fa3213bf12dd3b5757b79170b238a726a7ce5.png",
+        "category": "Math Games",
+        "gameURL": "https://poki.com/en/g/math-trivia-live",
+        "desc": "Brain And Maths Game",
+        "isNew": false
+      },{
+        "gameName": "Sudoku",
+        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/fde33f9b7a0e003608c30f07e47bb4a4.png",
+        "category": "Math Games",
+        "gameURL": "https://poki.com/en/g/sudoku",
+        "desc": "Brain And Maths Game",
+        "isNew": false
+      },{
+        "gameName": "Math-Mahjong-Relax",
+        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/9353086c812f00fc873b6b49c4db5f3f.png",
+        "category": "Math Games",
+        "gameURL": "https://poki.com/en/g/math-mahjong-relax",
+        "desc": "Brain And Maths Game",
+        "isNew": false
+      },{
+        "gameName": "Numbers",
+        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/ddd68cd4387aad588bd48ca45c2f2290.png",
+        "category": "Math Games",
+        "gameURL": "https://poki.com/en/g/numbers",
+        "desc": "Brain And Maths Game",
+        "isNew": false
+      },{
+        "gameName": "Line-Up-Dots",
+        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/d6b8ec8c03cba851275b9c0ae823ba3c.png",
+        "category": "Math Games",
+        "gameURL": "https://poki.com/en/g/line-up-dots",
+        "desc": "Brain And Maths Game",
+        "isNew": false
+      },{
+        "gameName": "Ultimate-Sudoku",
+        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/bc07d0e7d1b5b448e0a932537b4ebf80.png",
+        "category": "Math Games",
+        "gameURL": "https://poki.com/en/g/ultimate-sudoku",
+        "desc": "Brain And Maths Game",
+        "isNew": false
+      },{
+        "gameName": "Merge-The-Numbers",
+        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/e963e20cad2f5853ce98d196f6f69b71.jpg",
+        "category": "Math Games",
+        "gameURL": "https://poki.com/en/g/merge-the-numbers",
+        "desc": "Brain And Maths Game",
+        "isNew": false
+      },{
+        "gameName": "Amazing-Sudoku",
+        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/f8a7b4c86f26826c03e81ed8193235ef.png",
+        "category": "Math Games",
+        "gameURL": "https://poki.com/en/g/amazing-sudoku",
+        "desc": "Brain And Maths Game",
+        "isNew": false
+      },{
+        "gameName": "Merge-To-Million",
+        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/8919355ffb5b747654042d2cd3ae339b.png",
+        "category": "Math Games",
+        "gameURL": "https://poki.com/en/g/merge-to-million",
+        "desc": "Brain And Maths Game",
+        "isNew": false
+      },{
+        "gameName": "Math-Pixel-Puzzle",
+        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/5e6a763416a67c7f1d515041d08b3adf.jpeg",
+        "category": "Math Games",
+        "gameURL": "https://poki.com/en/g/math-pixel-puzzle",
+        "desc": "Brain And Maths Game",
+        "isNew": false
+      },{
+        "gameName": "Sudoku-Village",
+        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/a2d08cf6ef184aebb2fa25f56e49b6b1.png",
+        "category": "Math Games",
+        "gameURL": "https://poki.com/en/g/sudoku-village",
+        "desc": "Brain And Maths Game",
+        "isNew": false
+      },{
+        "gameName": "Online-Sudoku",
+        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/d9cc0a97-e011-4757-b8cc-496da850c568.png",
+        "category": "Math Games",
+        "gameURL": "https://poki.com/en/g/online-sudoku",
+        "desc": "Brain And Maths Game",
+        "isNew": false
+      },{
+        "gameName": "Maze-Path-Of-Light",
+        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/6a3ee5115f03ce0dd7e0bf1954fe1b80.png",
+        "category": "Math Games",
+        "gameURL": "https://poki.com/en/g/maze-path-of-light",
+        "desc": "Brain And Maths Game",
+        "isNew": false
+      },{
+        "gameName": "Free-The-Key",
+        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/7cf2d05b25dcb57ae219b879e275976c.png",
+        "category": "Math Games",
+        "gameURL": "https://poki.com/en/g/free-the-key",
+        "desc": "Brain And Maths Game",
+        "isNew": false
+      },{
+        "gameName": "The-Impossible-Quiz",
+        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/3cd96c99-46c1-4ff0-b04a-82381ea07349.png",
+        "category": "Math Games",
+        "gameURL": "https://poki.com/en/g/the-impossible-quiz",
+        "desc": "Brain And Maths Game",
+        "isNew": false
+      },{
+        "gameName": "Teeny-Tiny-Town",
+        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/5537f8d97913f1ce92dddc8676d43f2c.png",
+        "category": "Math Games",
+        "gameURL": "https://poki.com/en/g/teeny-tiny-town",
+        "desc": "Brain And Maths Game",
+        "isNew": false
+      },{
+        "gameName": "Emoji-Sort-Master",
+        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/7eb8c4c7bba7373b84741b54eb756856.png",
+        "category": "Math Games",
+        "gameURL": "https://poki.com/en/g/emoji-sort-master",
+        "desc": "Brain And Maths Game",
+        "isNew": false
+      },{
+        "gameName": "Word-City-Crossed",
+        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/d89159e07e5eb9c4a66edf4854b7a678.png",
+        "category": "Math Games",
+        "gameURL": "https://poki.com/en/g/word-city-crossed",
+        "desc": "Brain And Maths Game",
+        "isNew": false
+      },{
+        "gameName": "Wood-Blocks-3d",
+        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/1e3f3fcfb827a63040bb48aecbaa3962.png",
+        "category": "Math Games",
+        "gameURL": "https://poki.com/en/g/wood-blocks-3d",
+        "desc": "Brain And Maths Game",
+        "isNew": false
+      },{
+        "gameName": "Casual-Chess",
+        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/3717b54bf38e0044ce258b1783fe60ec.jpeg",
+        "category": "Math Games",
+        "gameURL": "https://poki.com/en/g/casual-chess",
+        "desc": "Brain And Maths Game",
+        "isNew": false
+      },{
+        "gameName": "Tictactoe",
+        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/b72f31aa574acaa5cbf6b6c69104c988.png",
+        "category": "Math Games",
+        "gameURL": "https://poki.com/en/g/tictactoe",
+        "desc": "Brain And Maths Game",
+        "isNew": false
+      },{
+        "gameName": "Words-Search-Classic-Edition",
+        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/f89b2e49f4230ef716355090a879bfa3.png",
+        "category": "Math Games",
+        "gameURL": "https://poki.com/en/g/words-search-classic-edition",
+        "desc": "Brain And Maths Game",
+        "isNew": false
       },
 
       {
@@ -527,6 +766,132 @@
         "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/7db1b3c920544b27bdec9f67d0c2d92c.png",
         "category": "Shooting Games",
         "gameURL": "https://poki.com/en/g/stick-defenders",
+        "desc": "Shooting Games",
+        "isNew": false
+      },{
+        "gameName": "Combat-Reloaded",
+        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/1c8089f7-7254-4cbf-b8bc-7581cd5412e4.png",
+        "category": "Shooting Games",
+        "gameURL": "https://poki.com/en/g/combat-reloaded",
+        "desc": "Shooting Games",
+        "isNew": false
+      },{
+        "gameName": "Combat-Reloaded-2",
+        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/84ad3def86043b739c7720b3098ae15b.png",
+        "category": "Shooting Games",
+        "gameURL": "https://poki.com/en/g/combat-reloaded-2",
+        "desc": "Shooting Games",
+        "isNew": false
+      },{
+        "gameName": "Rebels-Clash",
+        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/7748ae68e29db89aafcdfe0368be0d7dde654cb43d0111e3d4f102295bbbf11f.png",
+        "category": "Shooting Games",
+        "gameURL": "https://poki.com/en/g/rebels-clash",
+        "desc": "Shooting Games",
+        "isNew": false
+      },{
+        "gameName": "Stick-Merge",
+        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/3b3f4aeacf600fd3910f1c3d513c0636.png",
+        "category": "Shooting Games",
+        "gameURL": "https://poki.com/en/g/stick-merge",
+        "desc": "Shooting Games",
+        "isNew": false
+      },{
+        "gameName": "Subway-Clash-3d",
+        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/2cd29f9048f9f0ac59ec1201b77f4fdb.png",
+        "category": "Shooting Games",
+        "gameURL": "https://poki.com/en/g/subway-clash-3d",
+        "desc": "Shooting Games",
+        "isNew": false
+      },{
+        "gameName": "The-Sniper-Code",
+        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/cad360531002e844bda8d5647a87c424.png",
+        "category": "Shooting Games",
+        "gameURL": "https://poki.com/en/g/the-sniper-code",
+        "desc": "Shooting Games",
+        "isNew": false
+      },{
+        "gameName": "Quick-Gun",
+        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/c32a5f7ab5d06025df8c79e4a07ff8af.png",
+        "category": "Shooting Games",
+        "gameURL": "https://poki.com/en/g/quick-gun",
+        "desc": "Shooting Games",
+        "isNew": false
+      },{
+        "gameName": "Zombie-Outbreak-Arena",
+        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/91d3b286675bd2fa0fc90e16069aa20a.png",
+        "category": "Shooting Games",
+        "gameURL": "https://poki.com/en/g/zombie-outbreak-arena",
+        "desc": "Shooting Games",
+        "isNew": false
+      },{
+        "gameName": "Base-Defense",
+        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/d65e7eaed30c413eea1475e9c5288848.png",
+        "category": "Shooting Games",
+        "gameURL": "https://poki.com/en/g/base-defense",
+        "desc": "Shooting Games",
+        "isNew": false
+      },{
+        "gameName": "Castle-Fight-With-Buddies",
+        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/cccc1fa887899efeda2ec99e1121518a.png",
+        "category": "Shooting Games",
+        "gameURL": "https://poki.com/en/g/castle-fight-with-buddies",
+        "desc": "Shooting Games",
+        "isNew": false
+      },{
+        "gameName": "Hills-Of-Steel",
+        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/e8a5f2eda2e5340e8ded263692835caa.png",
+        "category": "Shooting Games",
+        "gameURL": "https://poki.com/en/g/hills-of-steel",
+        "desc": "Shooting Games",
+        "isNew": false
+      },{
+        "gameName": "Ninja-Clash-Heroes",
+        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/41c0c72fd52a72d4380bd021d8e6d90e.png",
+        "category": "Shooting Games",
+        "gameURL": "https://poki.com/en/g/ninja-clash-heroes",
+        "desc": "Shooting Games",
+        "isNew": false
+      },{
+        "gameName": "Paint-Strike",
+        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/4fec3698d0fceab067ab8a055dc8b3f5.jpeg",
+        "category": "Shooting Games",
+        "gameURL": "https://poki.com/en/g/paint-strike",
+        "desc": "Shooting Games",
+        "isNew": false
+      },{
+        "gameName": "Soldier-Legend",
+        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/a2f41af90779898e55d347dc33529208.png",
+        "category": "Shooting Games",
+        "gameURL": "https://poki.com/en/g/soldier-legend",
+        "desc": "Shooting Games",
+        "isNew": false
+      },{
+        "gameName": "Sniper-Clash-3d",
+        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/c3e9dd934e662138b341625c879a6a36.png",
+        "category": "Shooting Games",
+        "gameURL": "https://poki.com/en/g/sniper-clash-3d",
+        "desc": "Shooting Games",
+        "isNew": false
+      },{
+        "gameName": "Rocket-Clash-3d",
+        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/93ad22225781a5c4e67450d39a744de4.png",
+        "category": "Shooting Games",
+        "gameURL": "https://poki.com/en/g/rocket-clash-3d",
+        "desc": "Shooting Games",
+        "isNew": false
+      },{
+        "gameName": "Tactical-Squad",
+        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/e805481e9ed84a8d7c4cc15ae6d19570.jpeg",
+        "category": "Shooting Games",
+        "gameURL": "https://poki.com/en/g/tactical-squad",
+        "desc": "Shooting Games",
+        "isNew": false
+      },{
+        "gameName": "Laborer-2",
+        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/771a3fc215300b52de02f49c4af0d186.png",
+        "category": "Shooting Games",
+        "gameURL": "https://poki.com/en/g/laborer-2",
         "desc": "Shooting Games",
         "isNew": false
       },
@@ -620,6 +985,90 @@
         "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/df93c433d1889f08a8446509d32a4253.png",
         "category": "Funny",
         "gameURL": "https://poki.com/en/g/ludo-multiplayer",
+        "desc": "Funny Games",
+        "isNew": false
+      },{
+        "gameName": "Cover-Orange",
+        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/9b6c7247edc298796fbe844dfcfdb417.png",
+        "category": "Funny",
+        "gameURL": "https://poki.com/en/g/cover-orange",
+        "desc": "Funny Games",
+        "isNew": false
+      },{
+        "gameName": "Rainbow-Obby",
+        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/fd770762bcef1177ee819e34fda941f1.png",
+        "category": "Funny",
+        "gameURL": "https://poki.com/en/g/rainbow-obby",
+        "desc": "Funny Games",
+        "isNew": false
+      },{
+        "gameName": "Google-Feud",
+        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/ce72bcf0-3b49-471d-b38d-8d99287c7d8e.png",
+        "category": "Funny",
+        "gameURL": "https://poki.com/en/g/google-feud",
+        "desc": "Funny Games",
+        "isNew": false
+      },{
+        "gameName": "Factory-Balls-Forever",
+        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/2a503d0a1d9475d6e62c7ea11caa429ab952aa8f500755613a34e66e2196fe82.png",
+        "category": "Funny",
+        "gameURL": "https://poki.com/en/g/factory-balls-forever",
+        "desc": "Funny Games",
+        "isNew": false
+      },{
+        "gameName": "Blumgi-Slime",
+        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/9aa6000ed201eba3c8f878c489a7c3ce.png",
+        "category": "Funny",
+        "gameURL": "https://poki.com/en/g/blumgi-slime",
+        "desc": "Funny Games",
+        "isNew": false
+      },{
+        "gameName": "Zeepkist-Crash-2d",
+        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/adaf9444d645f92e567cc721f411df36.png",
+        "category": "Funny",
+        "gameURL": "https://poki.com/en/g/zeepkist-crash-2d",
+        "desc": "Funny Games",
+        "isNew": false
+      },{
+        "gameName": "Little-Master-Cricket",
+        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/e59cb3dd8207039fa03a8745c4917e18.png",
+        "category": "Funny",
+        "gameURL": "https://poki.com/en/g/little-master-cricket",
+        "desc": "Funny Games",
+        "isNew": false
+      },{
+        "gameName": "Snakes-And-Ladders",
+        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/d04b4bd8f95dee40aedf85d86846dda9.png",
+        "category": "Funny",
+        "gameURL": "https://poki.com/en/g/snakes-and-ladders",
+        "desc": "Funny Games",
+        "isNew": false
+      },{
+        "gameName": "Minibattles",
+        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/ead6b05b12ce9f3408612e2c19cdcc2f.png",
+        "category": "Funny",
+        "gameURL": "https://poki.com/en/g/minibattles",
+        "desc": "Funny Games",
+        "isNew": false
+      },{
+        "gameName": "Flip-The-Bottle",
+        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/1a96f7e791a246975c7b07c53bde6b7d.png",
+        "category": "Funny",
+        "gameURL": "https://poki.com/en/g/flip-the-bottle",
+        "desc": "Funny Games",
+        "isNew": false
+      },{
+        "gameName": "Basketball-Stars",
+        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/bc02c9cdfc5b424ddf343b01edf791ce.png",
+        "category": "Funny",
+        "gameURL": "https://poki.com/en/g/basketball-stars",
+        "desc": "Funny Games",
+        "isNew": false
+      },{
+        "gameName": "Unicycle-Hero",
+        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/4089ea8322c7fe8a5416ef5ee237ea53.png",
+        "category": "Funny",
+        "gameURL": "https://poki.com/en/g/unicycle-hero",
         "desc": "Funny Games",
         "isNew": false
       }
