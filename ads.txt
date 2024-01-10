@@ -1,3 +1,15 @@
 {
-    "showAds":true
+    "appUrl":"https://play.google.com/store/apps/details?id=com.games.alllatestcasualgames&hl=en-IN",
+    "showAd":true,
+    "privacyUrl":"https://estragames123.blogspot.com/2023/12/privacy-policy.html",
+    "googleNativeId":"ca-app-pub-3940256099942544/2247696110",
+    "googleBannerId":"ca-app-pub-3940256099942544/6300978111",
+    "googleAppOpenAd":"ca-app-pub-3940256099942544/9257395921",
+    "googleInterstitial":"ca-app-pub-3940256099942544/1033173712",
+    "isUpdateApp":false,
+    "appOpenVisible":ture,
+    "googleNativeVisible":true,
+    "googleBannerVisible":true,
+    "isBackAdd":true,
+    "toBeClicked":0
 }
