@@ -481,6 +481,6 @@
         "gameURL": "https://poki.com/en/g/noob-hook",
         "desc": ".io Games Game",
         "isNew": false
-      },
+      }
     ]
   }
