@@ -1,54 +1,44 @@
 {
   "data": [
     {
-   
       "gameName": "Subway Sufers",
       "gameImage": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/81a0a3f18cf0ee129e56edb50fc52c3b.png",
       "category": "Trending",
       "gameURL": "https://poki.com/en/g/subway-surfers",
       "desc": "Trending Games",
       "isNew": true
-    
     },
     {
-  
       "gameName": "Temple Run 2",
       "gameImage": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/f4b3ac7fe25cad9bc028b33f7a407f28.png",
       "category": "Trending",
       "gameURL": "https://poki.com/en/g/temple-run-2",
       "desc": "Trending Games",
       "isNew": true
-    
     },
     {
-  
       "gameName": "Bullet Bonanza",
       "gameImage": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/6f572b31535022eb1b48782fe53e8a03.png",
       "category": "Trending",
       "gameURL": "https://poki.com/en/g/bullet-bonanza",
       "desc": "Trending Games",
       "isNew": true
-    
     },
     {
-  
       "gameName": "Mekorama",
       "gameImage": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/56cba7ef0668cad515855b98be92ac16.png",
       "category": "Trending",
       "gameURL": "https://poki.com/en/g/mekorama",
       "desc": "Trending Games",
       "isNew": true
-    
     },
     {
-  
       "gameName": "Skibidi Shooter",
       "gameImage": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/05cee9fd5cd50ccced66cd992dffeb1b.png",
       "category": "Trending",
       "gameURL": "https://poki.com/en/g/skibidi-shooter",
       "desc": "Trending Games",
       "isNew": true
-    
     }
   ]
 }
