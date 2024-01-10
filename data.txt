@@ -1,6 +1,78 @@
 {
     "data": [
-     {
+    [11:56 am, 10/01/2024] Bmcet. Gavrav: {
+    "data": [
+      {
+        "gameName": "Subway Sufers",
+        "gameImage": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/81a0a3f18cf0ee129e56edb50fc52c3b.png",
+        "category": "Trending",
+        "gameURL": "https://poki.com/en/g/subway-surfers",
+        "desc": "Trending Games",
+        "isNew": true
+      },
+      {
+        "gameName": "Temple Run 2",
+        "gameImage": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/f4b3ac7fe25cad9bc028b33f7a407f28.png",
+        "category": "Trending",
+        "gameURL": "https://poki.com/en/g/temple-run-2",
+        "desc": "Trending Games",
+        "isNew": true
+      },
+      {
+        "gameName": "Bullet Bonanza",
+        "gameIm…
+[0:03 pm, 10/01/2024] Jemin Sosaliya: appUrl = adData.docs[0].data()["appUrl"];
+  //     privacyUrl = adData.docs[0].data()["privacyUrl"];
+  //     googleNativeId = adData.docs[0].data()["googleNativeId"];
+  //     googleBannerId = adData.docs[0].data()["googleBannerId"];
+  //     googleAppOpenAd = adData.docs[0].data()["googleAppOpenAd"];
+  //     googleInterstitial = adData.docs[0].data()["googleInterstitial"];
+  //     showAd = adData.docs[0].data()["showAd"];
+  //     isUpdateApp = adData.docs[0].data()["isUpdateApp"];
+  //     appOpenVisible = adData.docs[0].data()["appOpenVisible"];
+  //     googleNativeVisible = adData.docs[0].data()["googleNativeVisible"];
+  //     googleBannerVisible = adData.docs[0].data()["googleBannerVisible"];
+  //     isBackAdd = adData.docs[0].data()["isBackAdd"];
+  //     toBeClicked = adData.docs[0].data()["toBeClicked"];
+[1:00 pm, 10/01/2024] Bmcet. Gavrav: {
+        "gameName": "Subway Sufers",
+        "gameImage": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/81a0a3f18cf0ee129e56edb50fc52c3b.png",
+        "category": "Trending",
+        "gameURL": "https://poki.com/en/g/subway-surfers",
+        "desc": "Trending Games",
+        "isNew": true
+      },
+      {
+        "gameName": "Temple Run 2",
+        "gameImage": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/f4b3ac7fe25cad9bc028b33f7a407f28.png",
+        "category": "Trending",
+        "gameURL": "https://poki.com/en/g/temple-run-2",
+        "desc": "Trending Games",
+        "isNew": true
+      },
+      {
+        "gameName": "Bullet Bonanza",
+        "gameImage": "https://img.pok…
+[1:10 pm, 10/01/2024] Bmcet. Gavrav: {
+        "gameName": "Midnight-Drive",
+        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/b4d58a67c898149f9cb897eb7ec99d73.png",
+        "category": "Car & Bike",
+        "gameURL": "https://poki.com/en/g/midnight-drive",
+        "desc": "Car & Bike Game",
+        "isNew": false
+      },{
+        "gameName": "Crazy-cars",
+        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/2bc8004fcbb4387908a636e2a9d9ab4a.png",
+        "category": "Car & Bike",
+        "gameURL": "https://poki.com/en/g/crazy-cars",
+        "desc": "Car & Bike Game",
+        "isNew": false
+      },
+
+      {
+        "gameName": "2048",
+        "gameImage":"https://img.poki.com/cdn-cgi/…
+[2:18 pm, 10/01/2024] Bmcet. Gavrav: {
         "gameName": "Subway Sufers",
         "gameImage": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/81a0a3f18cf0ee129e56edb50fc52c3b.png",
         "category": "Trending",
@@ -480,6 +552,147 @@
         "category": ".io Games",
         "gameURL": "https://poki.com/en/g/noob-hook",
         "desc": ".io Games Game",
+        "isNew": false
+      },
+
+      {
+        "gameName": "Midnight-Drive",
+        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/b4d58a67c898149f9cb897eb7ec99d73.png",
+        "category": "Car & Bike",
+        "gameURL": "https://poki.com/en/g/midnight-drive",
+        "desc": "Car & Bike Game",
+        "isNew": false
+      },{
+        "gameName": "Crazy-cars",
+        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/2bc8004fcbb4387908a636e2a9d9ab4a.png",
+        "category": "Car & Bike",
+        "gameURL": "https://poki.com/en/g/crazy-cars",
+        "desc": "Car & Bike Game",
+        "isNew": false
+      },
+
+      {
+        "gameName": "2048",
+        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/cb8c967c-4a78-4ffa-8506-cbac69746f4f.png",
+        "category": "Math Games",
+        "gameURL": "https://poki.com/en/g/2048",
+        "desc": "Brain And Maths Game",
+        "isNew": false
+      },{
+        "gameName": "Hypersnake",
+        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/1bc281ffb3f3957fc7400591c633864a.png",
+        "category": "Math Games",
+        "gameURL": "https://poki.com/en/g/hypersnake",
+        "desc": "Brain And Maths Game",
+        "isNew": false
+      },
+
+      {
+        "gameName": "Blockheads",
+        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/24d50407d5f4cba4d156dcf4fd13cc5d.png",
+        "category": "Shooting Games",
+        "gameURL": "https://poki.com/en/g/blockheads",
+        "desc": "Shooting Games",
+        "isNew": false
+      },{
+        "gameName": "Stick-Defenders",
+        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/7db1b3c920544b27bdec9f67d0c2d92c.png",
+        "category": "Shooting Games",
+        "gameURL": "https://poki.com/en/g/stick-defenders",
+        "desc": "Shooting Games",
+        "isNew": false
+      },
+
+      {
+        "gameName": "Funny-Daycare",
+        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/6f2136c5a99fc209eaf07e6b3bd069a0.png",
+        "category": "Funny",
+        "gameURL": "https://poki.com/en/g/funny-daycare",
+        "desc": "Funny Games",
+        "isNew": false
+      },{
+        "gameName": "Stickman-Bridge-Constructor",
+        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/557d8f9dd1e9c4a3b76b0988e45cb9af.png",
+        "category": "Funny",
+        "gameURL": "https://poki.com/en/g/stickman-bridge-constructor",
+        "desc": "Funny Games",
+        "isNew": false
+      },{
+        "gameName": "Flip-Bros",
+        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/6ad0d4d2e71f77da3bd821348dd89e97.png",
+        "category": "Funny",
+        "gameURL": "https://poki.com/en/g/flip-bros",
+        "desc": "Funny Games",
+        "isNew": false
+      },{
+        "gameName": "Poor-Eddie",
+        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/bf83e47208822a41d35d8dc5f8fd0bb3.png",
+        "category": "Funny",
+        "gameURL": "https://poki.com/en/g/poor-eddie",
+        "desc": "Funny Games",
+        "isNew": false
+      },{
+        "gameName": "Thumb-Fighter",
+        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/6e8ca2d5ef528d56bbbb57e26e6d18f9.png",
+        "category": "Funny",
+        "gameURL": "https://poki.com/en/g/thumb-fighter",
+        "desc": "Funny Games",
+        "isNew": false
+      },{
+        "gameName": "Bottle-Flip",
+        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/ce41fca3-947a-4deb-a341-c0cc55480db6.png",
+        "category": "Funny",
+        "gameURL": "https://poki.com/en/g/bottle-flip",
+        "desc": "Funny Games",
+        "isNew": false
+      },{
+        "gameName": "Murder",
+        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/baccf9660bfb476fe2c8ae9f5a2ec4d2.png",
+        "category": "Funny",
+        "gameURL": "https://poki.com/en/g/murder",
+        "desc": "Funny Games",
+        "isNew": false
+      },{
+        "gameName": "Doctor-Teeth-2",
+        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/7e3183267fb30cfd9dba6ea8c6644e9d.png",
+        "category": "Funny",
+        "gameURL": "https://poki.com/en/g/doctor-teeth-2",
+        "desc": "Funny Games",
+        "isNew": false
+      },{
+        "gameName": "Gobble",
+        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/1801ed3d50240731304d3c98106a9e7a.png",
+        "category": "Funny",
+        "gameURL": "https://poki.com/en/g/gobble",
+        "desc": "Funny Games",
+        "isNew": false
+      },{
+        "gameName": "Slimemaker",
+        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/88c0f732-2b10-4ea1-91f9-9c97ed88c6ee.png",
+        "category": "Funny",
+        "gameURL": "https://poki.com/en/g/slimemaker",
+        "desc": "Funny Games",
+        "isNew": false
+      },{
+        "gameName": "Stupidella-1",
+        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/b5b231d4fd1bdb53c8a2315c9d71476b.jfif",
+        "category": "Funny",
+        "gameURL": "https://poki.com/en/g/stupidella-1",
+        "desc": "Funny Games",
+        "isNew": false
+      },{
+        "gameName": "Wrassling",
+        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/f1b3c828-7af9-4e13-9f5c-b2e88f335bdf.png",
+        "category": "Funny",
+        "gameURL": "https://poki.com/en/g/wrassling",
+        "desc": "Funny Games",
+        "isNew": false
+      },{
+        "gameName": "Ludo-Multiplayer",
+        "gameImage":"https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/df93c433d1889f08a8446509d32a4253.png",
+        "category": "Funny",
+        "gameURL": "https://poki.com/en/g/ludo-multiplayer",
+        "desc": "Funny Games",
         "isNew": false
       }
     ]
