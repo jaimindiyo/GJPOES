@@ -11,5 +11,5 @@
     "googleNativeVisible":true,
     "googleBannerVisible":true,
     "isBackAdd":true,
-    "toBeClicked":0
+    "toBeClicked":1
 }
