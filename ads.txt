@@ -7,7 +7,7 @@
     "googleBannerId":"ca-app-pub-3940256099942544/6300978111",
     "googleAppOpenAd":"ca-app-pub-3940256099942544/9257395921",
     "googleInterstitial":"ca-app-pub-3940256099942544/1033173712",
-    "isUpdateApp":false,
+    "isUpdateApp":true,
     "appOpenVisible":true,
     "googleNativeVisible":true,
     "googleBannerVisible":true,
