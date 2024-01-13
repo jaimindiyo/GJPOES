@@ -10,7 +10,7 @@
     "isUpdateApp":false,
     "appOpenVisible":true,
     "googleNativeVisible":true,
-    "googleBannerVisible":true,
+    "googleBannerVisible":false,
     "isBackAdd":true,
     "toBeClicked":1
 }
