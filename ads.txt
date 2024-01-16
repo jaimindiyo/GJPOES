@@ -10,7 +10,7 @@
     "isUpdateApp":false,
     "appOpenVisible":false,
     "googleNativeVisible":false,
-    "googleBannerVisible":false,
+    "googleBannerVisible":true,
     "isBackAdd":true,
     "toBeClicked":1,
     "playNowClick":"._oaA25NgnD27qRa7gZZ3",
