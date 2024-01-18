@@ -6,7 +6,7 @@
     "googleNativeId":"/229445249,22973094495/highR_RS88_AllInonegamesallgames_34_NATIVE_5175_160124",
     "googleBannerId":"/229445249,22973094495/highR_RS88_AllInonegamesallgames_34_BANNER_5173_160124",
     "googleAppOpenAd":"/229445249,22973094495/highR_RS88_AllInonegamesallgames_34_APP_OPEN_5172_160124",
-    "googleInterstitial":"/229445249,22973094495/highR_RS88_AllInonegamesallgames_34_INTERSTITIAL_5174_160124",
+    "googleInterstitial":"ca-app-pub-5310913217567536/2036391381",
     "isUpdateApp":false,
     "appOpenVisible":false,
     "googleNativeVisible":false,
