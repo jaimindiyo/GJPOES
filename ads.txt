@@ -12,7 +12,7 @@
     "googleNativeVisible":true,
     "googleBannerVisible":true,
     "isBackAdd":true,
-    "toBeClicked":1,
+    "toBeClicked":3,
     "playNowClick":"._oaA25NgnD27qRa7gZZ3",
     "backButtonClick":".Luw8lK38r3OQwrI1_Mkt"
 }
