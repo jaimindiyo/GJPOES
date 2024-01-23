@@ -8,11 +8,11 @@
     "googleAppOpenAd":"/229445249,22951906608/highR_RS88_AllInonegamesallgames_30_APP_OPEN_5110_100124",
     "googleInterstitial":"/229445249,22951906608/highR_RS88_AllInonegamesallgames_30_INTERSTITIAL_5108_1001245243",
     "isUpdateApp":false,
-    "appOpenVisible":false,
+    "appOpenVisible":true,
     "googleNativeVisible":true,
     "googleBannerVisible":true,
     "isBackAdd":true,
-    "toBeClicked":1,
+    "toBeClicked":3,
     "playNowClick":"._oaA25NgnD27qRa7gZZ3",
     "backButtonClick":".Luw8lK38r3OQwrI1_Mkt"
 }
