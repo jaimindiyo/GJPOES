@@ -11,8 +11,8 @@
     "appOpenVisible":true,
     "googleNativeVisible":true,
     "googleBannerVisible":false,
-    "isBackAdd":true,
-    "toBeClicked":1,
+    "isBackAdd":false,
+    "toBeClicked":4,
     "playNowClick":"._oaA25NgnD27qRa7gZZ3",
     "backButtonClick":".Luw8lK38r3OQwrI1_Mkt"
 }
