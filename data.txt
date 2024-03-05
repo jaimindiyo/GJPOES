@@ -54,7 +54,7 @@
         "category": "Trending",
         "gameURL": "https://poki.com/en/g/make-it-meme",
         "desc": "Trending Games",
-        "isNew": false
+        "isNew": true
       },
       {
         "gameName": "Ludo Hero",
@@ -83,7 +83,7 @@
         "category": "Trending",
         "gameURL": "https://poki.com/en/g/cosmos-lines",
         "desc": "Trending Games",
-        "isNew": false
+        "isNew": true
       },{
         "gameName": "Drive-Mad",
         "gameImage": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/f8a2160e52333ee0d44ec19e8ca65139.png",
@@ -153,7 +153,7 @@
         "category": "Trending",
         "gameURL": "https://poki.com/en/g/stacktris",
         "desc": "Trending Games",
-        "isNew": false
+        "isNew": true
       },{
         "gameName": "Sushi-Party-io",
         "gameImage": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/e327f46027899af3e9573ef51450bb54.png",
@@ -223,7 +223,7 @@
         "category": "Trending",
         "gameURL": "https://poki.com/en/g/vortellis-pizza-delivery",
         "desc": "Trending Games",
-        "isNew": false
+        "isNew": true
       },{
         "gameName": "Parkour-Race",
         "gameImage": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/a151c8ec0e7758c6fa0ef06ff540e911.jpeg",
@@ -244,7 +244,7 @@
         "category": "Trending",
         "gameURL": "https://poki.com/en/g/big-shot-boxing",
         "desc": "Trending Games",
-        "isNew": false
+        "isNew": true
       },{
         "gameName": "Sausage-flip",
         "gameImage": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/7d0655113228257bad41d851c074600d.png",
