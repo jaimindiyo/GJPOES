@@ -18,5 +18,6 @@
     "playNowClick":"._oaA25NgnD27qRa7gZZ3",
     "backButtonClick":".Luw8lK38r3OQwrI1_Mkt",
     "isIntro":true,
-    "isGameZop":true
+    "isGameZop":true,
+    "googleIntroNativeVisible":true
 }
