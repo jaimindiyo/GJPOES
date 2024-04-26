@@ -19,5 +19,6 @@
     "backButtonClick":".Luw8lK38r3OQwrI1_Mkt",
     "isIntro":true,
     "isGameZop":true,
-    "googleIntroNativeVisible":true
+    "googleIntroNativeVisible":true,
+    "googleIntroInterVisible":true
 }
