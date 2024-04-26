@@ -20,7 +20,7 @@
     "backButtonClick":".Luw8lK38r3OQwrI1_Mkt",
     "isIntro":true,
     "googleIntroNativeVisible":false,
-    "googleIntroInterVisible":fasle,
+    "googleIntroInterVisible":false,
     "adUrl":"https://8831.play.gamezop.com/",
     "showAdSense":false,
     "inAppAppOpenVisible":false
