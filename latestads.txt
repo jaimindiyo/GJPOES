@@ -22,5 +22,6 @@
     "isGameZop":true,
     "googleIntroNativeVisible":true,
     "googleIntroInterVisible":true,
-    "adUrl":"https://8831.play.gamezop.com/"
+    "adUrl":"https://8831.play.gamezop.com/",
+    "showAdSense":true
 }
