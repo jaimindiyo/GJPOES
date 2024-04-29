@@ -18,10 +18,10 @@
     "playNowLoaderTime":1,
     "playNowClick":"._oaA25NgnD27qRa7gZZ3",
     "backButtonClick":".Luw8lK38r3OQwrI1_Mkt",
-    "isIntro":true,
+    "isIntro":false,
     "googleIntroNativeVisible":false,
     "googleIntroInterVisible":false,
     "adUrl":"https://8831.play.gamezop.com/",
-    "showAdSense":true,
+    "showAdSense":false,
     "inAppAppOpenVisible":true
 }
