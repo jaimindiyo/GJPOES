@@ -21,7 +21,7 @@
     "isIntro":true,
     "googleIntroNativeVisible":false,
     "googleIntroInterVisible":false,
-    "adUrl":"https://8831.play.gamezop.com/",
+    "adUrl":"https://www.playpokigames.com/",
     "showAdSense":true,
     "inAppAppOpenVisible":true
 }
