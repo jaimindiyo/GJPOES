@@ -21,7 +21,7 @@
     "isIntro":true,
     "googleIntroNativeVisible":false,
     "googleIntroInterVisible":false,
-    "adUrl":"https://www.playpokigames.com/",
+    "adUrl":"https://www.101.playpokigames.com/",
     "showAdSense":true,
     "inAppAppOpenVisible":true
 }
